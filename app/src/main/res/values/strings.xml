@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="privacy_title">Privacy</string>
+    <string name="ai_disclosure_title">On-device AI</string>
+    <string name="ai_disclosure_body">AI suggestions run entirely on your phone after you unlock the AI assistant and download the model. Resume text is not uploaded to our servers. Suggestions are generated text — review them before applying. Nothing is written into your resume until you tap Apply.</string>
+    <string name="gemma_license_notice">By downloading the model you acknowledge Google\'s Gemma Terms of Use. The model file is large (about 530 MB). Use Wi‑Fi when possible.</string>
+    <string name="free_features">Create and edit resumes, choose free templates, preview, and export PDF — free, no account.</string>
+    <string name="paid_features">Premium templates and the on-device AI assistant are one-time unlocks through Google Play.</string>
+</resources>
